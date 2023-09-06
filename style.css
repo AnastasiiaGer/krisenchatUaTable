@@ -1,0 +1,76 @@
+/* Установка фиксированной ширины для поисковых окошек */
+.select2-container--default .select2-selection--multiple {
+  width: 100% !important;
+  min-width: 150px; /* Минимальная ширина */
+  max-width: 300px; /* Максимальная ширина */
+  box-sizing: border-box;
+}
+
+/* Стиль для множественного фильтра */
+.dataTables_filter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dataTables_filter label {
+  flex: 1;
+}
+
+.dataTables_filter select {
+  width: auto;
+  flex: 2;
+  margin-left: 10px;
+}
+
+/* Стиль для скролла в выпадающем списке */
+.select2-results__options {
+  max-height: 200px;
+  overflow-y: auto;
+}
+td.details-control {
+  cursor: pointer;
+}
+
+.details-arrow {
+  display: inline-block;
+  width: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+tr.shown .details-arrow {
+  transform: rotate(90deg);
+}
+
+/* для поисковика  */
+/* Стили для символов "+" и "-" в выпадающем списке */
+.details-arrow {
+  display: inline-block;
+  width: 20px;
+  text-align: center;
+  font-weight: bold;
+  transition: transform 0.3s;
+  font-size: 18px; /* Размер шрифта символа */
+  line-height: 1; /* Высота строки, чтобы символ был выровнен по вертикали */
+
+  color: rgb(13, 243, 13); /* Цвет символа "+" */
+}
+
+tr.shown .details-arrow {
+  transform: rotate(90deg);
+}
+
+/* Общие стили для всех разрешений */
+body {
+  font-family: Arial, sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  margin-top: 20px;
+}
+
+

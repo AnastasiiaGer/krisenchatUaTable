@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DataTables Example with Row Details</title>
+
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.1/css/select2.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script
+      type="text/javascript"
+      charset="utf8"
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      charset="utf8"
+      src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"
+    ></script>
+    <script type="text/javascript" src="data.js"></script>
+    <!-- Подключение файла с данными -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.1/js/select2.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        var table = $("#example").DataTable({
+          data: data,
+          columns: [
+            {
+              className: "details-control",
+              orderable: false,
+              data: null,
+              defaultContent: '<span class="details-arrow">+</span>',
+            },
+            { data: "Country", name: "Country" },
+            { data: "Type of resource", name: "Type of resource" },
+            {
+              data: "Language 1",
+              render: function (data, type, row) {
+                if (type === "display" && row["Language 2"]) {
+                  return data + " / " + row["Language 2"];
+                }
+                return data;
+              },
+            },
+            { data: "Name", name: "Name" },
+
+            { data: "Description", name: "Description" },
+
+            {
+              data: "Website",
+              render: function (data, type, row) {
+                if (type === "display" && data) {
+                  var displayedLink =
+                    data.length > 20 ? data.substring(0, 20) + "..." : data;
+                  return (
+                    '<a href="' +
+                    data +
+                    '" target="_blank" title="' +
+                    data +
+                    '">' +
+                    displayedLink +
+                    "</a>"
+                  );
+                }
+                return data;
+              },
+            },
+            {
+              data: "E-mail",
+              visible: false,
+              render: function (data, type, row) {
+                if (type === "display" && data) {
+                  return '<a href="mailto:' + data + '">' + data + "</a>";
+                }
+                return data;
+              },
+            },
+            { data: "Phone", 
+             visible: false,
+              render: function (data, type, row) {
+                if (type === "display" && data) {
+                  return (
+                    '<a href="' + data + '" target="_blank">' + data + "</a>"
+                  );
+                }
+                return data;
+              },
+            },
+            {
+              data: "On-site visit",
+              visible: false,
+              render: function (data, type, row) {
+                if (type === "display" && data) {
+                  return (
+                    '<a href="' + data + '" target="_blank">' + data + "</a>"
+                  );
+                }
+                return data;
+              },
+            },
+            { data: "Target group", name: "Target group" },
+          ],
+          order: [[5, "asc"]],
+        });
+
+        $("#example tbody").on("click", "td.details-control", function () {
+          var tr = $(this).closest("tr");
+          var row = table.row(tr);
+
+          if (row.child.isShown()) {
+            row.child.hide();
+            tr.removeClass("shown");
+            $(this).find(".details-arrow").text("+");
+          } else {
+            row.child(format(row.data())).show();
+            tr.addClass("shown");
+            $(this).find(".details-arrow").text("-");
+          }
+        });
+
+    function format(d) {
+    return (
+        '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">' +
+        "<tr>" +
+        "<td>E-mail:</td>" +
+        "<td>" + d["E-mail"] + "</td>" +
+        "</tr>" +
+        "<tr>" +
+        "<td>On-site visit:</td>" +
+        "<td>" + d["On-site visit"] + "</td>" +
+        "</tr>" +
+        "<tr>" +
+        "<td style='width: 95px;'>Phone:</td>" + /* Устанавливаем ширину 'auto' для текстовой ширины */
+        "<td style='padding: 5px; text-align: left;'>" + d["Phone"] + "</td>" +
+        "</tr>" +
+        "</table>"
+    );
+}
+
+
+
+
+        // Множественный фильтр только для выбранных колонок
+        table.columns([1, 2, 10]).every(function () {
+          var column = this;
+          var select = $('<select multiple><option value=""></option></select>')
+            .appendTo($(column.footer()))
+            .on("change", function () {
+              var selectedValues = $(this).val();
+              column
+                .search(
+                  selectedValues
+                    .map(function (val) {
+                      return "^" + val + "$";
+                    })
+                    .join("|"),
+                  true,
+                  false
+                )
+                .draw();
+            });
+
+          // Построение списка уникальных вариантов
+          var uniqueData = column.data().unique().sort().toArray();
+          $.each(uniqueData, function (i, item) {
+            select.append('<option value="' + item + '">' + item + "</option>");
+          });
+
+          // Ограничение ширины фильтра
+          select.width(column.header().offsetWidth);
+
+          // Добавление плагина Select2 для стилизации и управления выпадающим списком
+          select.select2({
+            width: "100%",
+            placeholder: column.header().innerHTML,
+            minimumResultsForSearch: -1, // Отключение поиска в выпадающем списке
+          });
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <table id="example" class="display" cellspacing="0" width="100%">
+      <thead>
+        <tr>
+          <th></th>
+          <th>Country</th>
+          <th>Type of resource</th>
+          <th>Language</th>
+          <th>Name</th>
+          <th>Description</th>
+          <th>Website</th>
+          <th>E-mail</th>
+          <th>Phone</th>
+          <th>On-site visit</th>
+          <th>Target group</th>
+        </tr>
+      </thead>
+
+      <tfoot>
+        <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+        </tr>
+      </tfoot>
+    </table>
+  </body>
+</html>
