@@ -5444,7 +5444,7 @@ var data = [
     "Type of resource": "Psychotherapeutic support",
     "Language 1": "uk",
     "Language 2": "eng",
-    Name: "MHPSS WHO Technical Working Group ",
+    Name: "MHPSS WHO Technical Working Group",
     Description:
       "Map for all the support provided fro Ukrainians (oncite and online). Please be very sensible while sharing this map with our chatters, make sure thwy know how to use it and they are in the right state",
     Website:
