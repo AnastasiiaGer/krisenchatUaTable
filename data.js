@@ -5440,15 +5440,15 @@ var data = [
     "": "",
   },
   {
-    Country: "UA",
+    Country: "",
     "Type of resource": "Psychotherapeutic support",
     "Language 1": "uk",
     "Language 2": "eng",
-    Name: "MHPSS WHO Technical Working Group",
+    Name: "Welcome Support Berlin",
     Description:
-      "Map for all the support provided fro Ukrainians (oncite and online). Please be very sensible while sharing this map with our chatters, make sure thwy know how to use it and they are in the right state",
+      "Individual support for refugees in every day matters, social welfare, psychosocial needs etc. that live on their own and/or are not supported by social workers or the like in their accomodation; only in Berlin",
     Website:
-      "https://www.humanitarianresponse.info/en/operations/ukraine/mental-health-and-psychosocial-support",
+      "https://redaktion.internationaler-bund.de/img/upload/IB%20Berlin-Brandenburg/Refugees_Help/Flyer_mehrsprachig_Icons/Flyer_WSB-UA.pdf",
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
