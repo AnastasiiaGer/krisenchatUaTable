@@ -5439,36 +5439,5 @@ var data = [
     "Target group": "All groups",
     "": "",
   },
-  {
-    Country: "",
-    "Type of resource": "Psychotherapeutic support",
-    "Language 1": "uk",
-    "Language 2": "eng",
-    Name: "Welcome Support Berlin",
-    Description:
-      "Individual support for refugees in every day matters, social welfare, psychosocial needs etc. that live on their own and/or are not supported by social workers or the like in their accomodation; only in Berlin",
-    Website:
-      "https://redaktion.internationaler-bund.de/img/upload/IB%20Berlin-Brandenburg/Refugees_Help/Flyer_mehrsprachig_Icons/Flyer_WSB-UA.pdf",
-    "E-mail": "",
-    Phone: "",
-    "On-site visit": "",
-    "Target group": "All groups",
-    "": "",
-  },
-  {
-    Country: "",
-    "Type of resource": "Psychotherapeutic support",
-    "Language 1": "uk",
-    "Language 2": "eng",
-    Name: "Welcome Support Berlin",
-    Description:
-      "",
-    Website:
-      "https://redaktion.internationaler-bund.de/img/upload/IB%20Berlin-Brandenburg/Refugees_Help/Flyer_mehrsprachig_Icons/Flyer_WSB-UA.pdf",
-    "E-mail": "",
-    Phone: "",
-    "On-site visit": "",
-    "Target group": "All groups",
-    "": "",
-  },
+ 
 ];
