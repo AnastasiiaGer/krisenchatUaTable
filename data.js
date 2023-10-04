@@ -5455,4 +5455,20 @@ var data = [
     "Target group": "All groups",
     "": "",
   },
+  {
+    Country: "",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "eng",
+    Name: "Welcome Support Berlin",
+    Description:
+      "",
+    Website:
+      "https://redaktion.internationaler-bund.de/img/upload/IB%20Berlin-Brandenburg/Refugees_Help/Flyer_mehrsprachig_Icons/Flyer_WSB-UA.pdf",
+    "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "All groups",
+    "": "",
+  },
 ];
