@@ -3641,7 +3641,7 @@ var data = [
     Name: "Proliska",
     Description:
       "!! Offer up to 12 free psuchotheraputical sessions online and offline; humanitarian help onsite",
-    Website: "https://proliska.org/kontakti/",
+    Website: "https://proliska.org/napisati-nam/",
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
