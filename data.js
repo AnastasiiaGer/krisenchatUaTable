@@ -50,7 +50,7 @@ var data = [
     "Language 1": "uk",
     "Language 2": "ru",
     Name: "Tell me",
-    Description: "Psycological support for free",
+    Description: "Psycological support for free. Please note that the waiting time can reach up to a few months!",
     Website: "https://tellme.com.ua",
     "E-mail": "",
     Phone: "",
