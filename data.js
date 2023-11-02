@@ -4705,21 +4705,6 @@ var data = [
     "Type of resource": "Psychotherapeutic support",
     "Language 1": "uk",
     "Language 2": "ru",
-    Name: "Psychosocial support service families of military personnel",
-    Description:
-      "A support group for people who have lost loved ones due to the war",
-    Website: "https://forms.gle/cTHeeG33fTkcV3Wq9",
-    "E-mail": "",
-    Phone: "",
-    "On-site visit": "",
-    "Target group": "Veterans",
-    "": "",
-  },
-  {
-    Country: "UA",
-    "Type of resource": "Psychotherapeutic support",
-    "Language 1": "uk",
-    "Language 2": "ru",
     Name: "Woman and war",
     Description:
       "Charity foundation that provides free psychological help (individual and group sessions) to women and children in Ukraine",
