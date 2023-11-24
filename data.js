@@ -3639,7 +3639,7 @@ var data = [
     "Language 2": "ru",
     Name: "CETA",
     Description:
-      "!! up 10 free consultations. online (and sometimes, offline) evidence based assessment for adults and adolescents (over 12) - ONLY FOR PROPLE IN UKRAINE",
+      "!! up 10 free consultations. online (and sometimes, offline) evidence based assessment for adults and adolescents (over 12) - ONLY FOR PROPLE IN UKRAINE. Waiting line is 4-6 weeks",
     Website: "https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=bSaWJcpkv02ftYyCPrjjXY96khFVUjpIuA3S64dn-qRUOU1KMEYxRThTRVVWOEtWQjJKWUlFNDIyVS4u",
     "E-mail": "",
     Phone: "",
@@ -4134,8 +4134,8 @@ var data = [
     "Language 2": "ru",
     Name: "Choices Support Center",
     Description:
-      "Choices Support Center in Amsterdam supports refugees in the Netherlands, with a special focus on addiction, STIs, and LGBTQI+ related issues.",
-    Website: "https://choicescenter.nl/",
+      "Choices Support Center in Amsterdam supports refugees in the Netherlands, with a special focus on addiction, STIs, and LGBTQI+ related issues. Primary focus on LGBTQI+ asylum seekers and status holders in the Netherlands. Offers live chatting with Russian, Arabic, English and Dutch speaking psychologists (check website for schedule). No treatment just problem-focused psychological support, but have referral network. ",
+    Website: "https://choicescenter.nl/ru/helpline/",
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
@@ -5566,6 +5566,54 @@ var data = [
     Phone: "",
     "On-site visit": "",
     "Target group": "Adults (18+)",
+    "": "",
+  },
+  {
+    Country: "UA",
+    "Type of resource": "Sexualized violence & domestic abuse",
+    "Language 1": "uk",
+    "Language 2": "",
+    Name: "Gidna",
+    Description:
+      "The Gidna project provide psychological help for women who survived sexual violence committed by Russian servicemen. Offer free, anonymous and professional consultations for Ukrainian women.",
+    Website:
+      "https://gidna.org/",
+    "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "Women",
+    "": "",
+  },
+    {
+    Country: "UA",
+    "Type of resource": "Sexualized violence & domestic abuse",
+    "Language 1": "uk",
+    "Language 2": "",
+    Name: "Divchata",
+    Description:
+      "Long-term psychological support for victims of sexual violence. Chatters need email them, to receive a special form. The project operates until the end of 2023.",
+    Website:
+      "https://www.divchata.org/uk/proekty/psyhologichna-reabilitaciya.html",
+    "E-mail": "help@divchata.org",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "Women",
+    "": "",
+  },
+   {
+    Country: "DE",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "lsvd Berlin",
+    Description:
+      "Offers free and discreate psychosocial counselling as well as legal advice on asylum and residence law for LGBTQIA* of legal age with refugee and migration experience. Languages Turkish, Farsi, Dari, Arabic, Russian, Ukrainian, Polish, Romanian, Vietnamese, Spanish and French.",
+    Website:
+      "https://berlin.lsvd.de/neuigkeiten/unser-hilfsangebot-fuer-queere-gefluechtete-aus-der-ukraine-de-en-ua-ru/",
+    "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "LGBTQIA+ & BIPoC",
     "": "",
   },
 ];
