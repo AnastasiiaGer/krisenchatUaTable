@@ -5687,4 +5687,52 @@ var data = [
     "Target group": "All groups",
     "": "",
   },
+   {
+    Country: "PL",
+    "Type of resource": "Medical help",
+    "Language 1": "uk",
+    "Language 2": "pl",
+    Name: "Help Now Hub",
+    Description:
+      "Help with access to treatment for HIV, tuberculosis, and hepatitis for Ukrainians, mainly in Poland.",
+    Website:
+      "https://helpnow.aph.org.ua/",
+   "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "Adults (18+)",
+    "": "",
+  },
+  {
+    Country: "DE",
+    "Type of resource": "Sexualized violence & domestic abuse",
+    "Language 1": "de",
+    "Language 2": "ru",
+    Name: "Zentrale Informationsstelle Autonomer Frauenhauser ",
+    Description:
+      "A map with women's refuges and safe houses.",
+    Website:
+      "https://www.frauenhaus-suche.de/ru/",
+   "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "Women",
+    "": "",
+  },
+   {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "",
+    Name: "Baza",
+    Description:
+      "Psychological self-help for veterans, Mobile application",
+    Website:
+      "https://play.google.com/store/apps/details?id=com.vilniy_vybir&pli=1",
+   "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "Veterans",
+    "": "",
+  },
 ];
