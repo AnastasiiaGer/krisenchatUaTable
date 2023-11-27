@@ -2991,7 +2991,7 @@ var data = [
     "Language 1": "uk",
     "Language 2": "ru",
     Name: "No Trivia / Ne Dribnici",
-    Description: "Chat counseling platform for teenagers via Telegram",
+    Description: "Chat counseling platform for teenagers via Telegram; a bot for children and teenagers that talks about personal boundaries and toxic relationships in a light, playful way",
     Website: "https://www.notrivia.com.ua/",
     "E-mail": "",
     Phone: "",
@@ -5656,6 +5656,22 @@ var data = [
     "": "",
   },
   {
+    Country: "AT",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "en",
+    "Language 2": "ru",
+    Name: "OMEGA Health Care Center",
+    Description:
+      "Short- and Long-term psychological help for different age groups (starting from age of 8). Consultations in Russian are available on Mondays between 9:00 a.m. to 2:00 p.m.",
+    Website:
+      "https://www.omega-graz.at/",
+   "E-mail": "office@omega-graz.at",
+    Phone: "+43 316 77 35 54",
+    "On-site visit": "",
+    "Target group": "All groups",
+    "": "",
+  },
+   {
     Country: "AT",
     "Type of resource": "Psychotherapeutic support",
     "Language 1": "en",
