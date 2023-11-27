@@ -4578,7 +4578,7 @@ var data = [
     Description:
       "Free psychosocial support for servicemen, their partners, and family members. Telephone line (every day from 10:00 a.m. to 8:00 p.m.), support groups for family members (to participate, please fill out the form at www.pidtrymka.in.ua or call the hotline), online consultations (Telegram @pidtrymkainua); consultations on social issues.",
     Website: "https://www.pidtrymka.in.ua/",
-    "E-mail": "",
+    "E-mail": "psypidtrymka@gmail.com",
     Phone: " +380 800 332 720 ",
     "On-site visit": "",
     "Target group": "Veterans",
