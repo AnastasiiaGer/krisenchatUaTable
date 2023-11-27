@@ -1108,7 +1108,7 @@ var data = [
     "Language 1": "de",
     "Language 2": "en",
     Name: "Zentrum ÜBERLEBEN",
-    Description: "Supports rehabilitation and integration",
+    Description: "Supports rehabilitation and integration for Ukrainians (until 31.12.2023)",
     Website: "http://www.ueberleben.org/en/home-en/",
     "E-mail": "",
     Phone: "(+49) 303 0390 6512",
@@ -2382,7 +2382,7 @@ var data = [
     "Language 2": "",
     Name: "Refugio Bremen",
     Description:
-      "Psychosocial and therapeutic treatment center for refugees and torture survivors",
+      "Psychosocial and therapeutic treatment center for refugees and torture survivors. or Ukrainian refugees therapies in Russian and Ukrainian are offered for free.",
     Website: "http://www.refugio-bremen.de/",
     "E-mail": "",
     Phone: "(+49) 421 1766 770",
@@ -5644,6 +5644,22 @@ var data = [
       "Free of charge psychotherapy (up to 10 sessions). Currently, waiting list is 3-5 days",
     Website:
       "https://uamentalhelp.org/",
+    "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "All groups",
+    "": "",
+  },
+   {
+    Country: "AT",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "de",
+    "Language 2": "ru",
+    Name: "Verein Hemayat",
+    Description:
+      "Free psychotherapy for ones who live in Vienna. Waiting list is around 10 weeks.",
+    Website:
+      "http://www.hemayat.org/informationen/po-russki.html",
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
