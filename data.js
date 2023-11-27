@@ -2412,7 +2412,7 @@ var data = [
     "Language 1": "de",
     "Language 2": "ru",
     Name: "Refugio Stuttgart",
-    Description: "Psychological counselling centre",
+    Description: "Psychological counselling centre. Offers multi-language counselling, crisis intervention, group offers etc for traumatized refugees free of charge. No need of health insurance. Also offers telephone advice in German for support persons. Area: the districts around Stuttgart, in Tübingen, the districts around Tübingen.",
     Website: "http://www.refugio-stuttgart.de/",
     "E-mail": "",
     Phone: "(+49) 711 9698 3252",
@@ -3033,7 +3033,7 @@ var data = [
     "Language 1": "uk",
     "Language 2": "ru",
     Name: "Voices of Children",
-    Description: "Psychological and overall support for children and parents",
+    Description: "Psychological and overall support for children and parents: individual (online/offline) and group therapies for both children and parents; rehabilitation of children with ASD; social entertainment classes for children, humanitarian and other individual assistance on request.",
     Website: "https://voices.org.ua/",
     "E-mail": "",
     Phone:
@@ -4531,7 +4531,7 @@ var data = [
     "Language 1": "uk",
     "Language 2": "ru",
     Name: "Manodaktaras",
-    Description: "Free psychological support for Ukrainians via video chat",
+    Description: "Free psychological support for Ukrainians via video chat. Note: the service is provided on voluntary basis, so there is no guarantee the help will be provided to everyone. ",
     Website:
       "https://www.manodaktaras.lt/klinika/psichologine-pagalba-ukrainos-zmonems/2405",
     "E-mail": "",
