@@ -5735,4 +5735,68 @@ var data = [
     "Target group": "Veterans",
     "": "",
   },
+  {
+    Country: "DE",
+    "Type of resource": "Medical help",
+    "Language 1": "en",
+    "Language 2": "de",
+    Name: "Doctolib",
+    Description:
+      "The platform helps to find a doctor in Germnany and book an appointment",
+    Website:
+      "https://www.doctolib.de/",
+   "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "Adults (18+)",
+    "": "",
+  },
+    {
+    Country: "DE",
+    "Type of resource": "Medical help",
+    "Language 1": "en",
+    "Language 2": "de",
+    Name: "Jameda",
+    Description:
+      "The platform helps to find a doctor in Germnany and book an appointment",
+    Website:
+      "https://www.jameda.de/",
+   "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "Adults (18+)",
+    "": "",
+  },
+   {
+    Country: "DE",
+    "Type of resource": "Medical help",
+    "Language 1": "en",
+    "Language 2": "de",
+    Name: "Medical on-call service",
+    Description:
+      "A service for a non-emergency doctor on call, also, concerning the medical insurance",
+    Website:
+      "https://www.116117.de/de/ukraine.php",
+   "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "Adults (18+)",
+    "": "",
+  },
+  {
+    Country: "",
+    "Type of resource": "Specialized help",
+    "Language 1": "en",
+    "Language 2": "",
+    Name: "Gamblers Anonymous",
+    Description:
+      "Helpline and support groups for people with a compulsive gambling problem",
+    Website:
+      "https://www.gamblersanonymous.org/ga/",
+   "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "All groups",
+    "": "",
+  },
 ];
