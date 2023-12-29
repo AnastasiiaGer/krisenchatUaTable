@@ -4694,7 +4694,8 @@ var data = [
     "Language 1": "uk",
     "Language 2": "ru",
     Name: "Lifeline",
-    Description: "!! Suicide prevention hotline. ONLY for situations of acute danger and risk of suicide attempt",
+    Description: 
+      "!! Suicide prevention hotline. ONLY for situations of acute danger and risk of suicide attempt",
     Website: "https://lifelineukraine.com",
     "E-mail": "",
     Phone: "7333",
