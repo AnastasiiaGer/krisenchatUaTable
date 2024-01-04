@@ -5816,4 +5816,20 @@ var data = [
     "Target group": "All groups",
     "": "",
   },
+   {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Support center Atlant",
+    Description:
+      "Psychological support for military people and their families",
+    Website:
+      "https://t.me/Atlant_SC_bot",
+   "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "Veterans",
+    "": "",
+  },
 ];
