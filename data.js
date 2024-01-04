@@ -5832,4 +5832,20 @@ var data = [
     "Target group": "Veterans",
     "": "",
   },
+     {
+    Country: "DE",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "en",
+    Name: "Panda Safe Space Berlin",
+    Description:
+      "A safe space for everyone who came to Berlin from Ukraine, their relatives and friends. Creative workshops and active games are held for children. For adults, PANDA Safe Space is a place where you can meet, communicate or be silent together and feel safe. The event takes place every Sunday from 12:00 until 15:00 free of charge. ",
+    Website:
+      "https://panda-platforma.berlin/events/categories/pandaukraine/",
+   "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "All groups",
+    "": "",
+  },
 ];
