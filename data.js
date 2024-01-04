@@ -5800,4 +5800,20 @@ var data = [
     "Target group": "All groups",
     "": "",
   },
+  {
+    Country: "",
+    "Type of resource": "Information",
+    "Language 1": "uk",
+    "Language 2": "",
+    Name: "Yak Ty",
+    Description:
+      "Free manuals on how to maintain long-distance relationships, how to discuss traumatic experiences, how to support someone who has lost a loved one, how to assist children during times of war, and how to provide support for veterans.",
+    Website:
+      "https://yakty.com.ua/kohana#manual",
+   "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "All groups",
+    "": "",
+  },
 ];
