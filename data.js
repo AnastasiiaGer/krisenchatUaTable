@@ -2992,7 +2992,7 @@ var data = [
     "Language 2": "ru",
     Name: "No Trivia / Ne Dribnici",
     Description: "Chat counseling platform for teenagers via Telegram; a bot for children and teenagers that talks about personal boundaries and toxic relationships in a light, playful way",
-    Website: "https://www.notrivia.com.ua/",
+    Website: "https://t.me/no_trivia_bot",
     "E-mail": "",
     Phone: "",
     "On-site visit": "10:00-20:00 every day",
