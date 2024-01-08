@@ -2457,7 +2457,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+43) 800 017 967",
     "On-site visit": "every day between 10:00 and 20:00",
