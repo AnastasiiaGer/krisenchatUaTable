@@ -5848,4 +5848,20 @@ var data = [
     "Target group": "All groups",
     "": "",
   },
+  {
+    Country: "",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "",
+    Name: "Brave Together",
+    Description:
+      "Psychological support hotline for teenagers from 14 years and young people up to 30 years, as well as people of any age who live abroad. Service available via telegram chat as well as via phone call (but only for people in Ukraine).  ",
+    Website:
+      "https://t.me/mnybravetogether_bot/",
+   "E-mail": "",
+    Phone: "380 800 331 200",
+    "On-site visit": "",
+    "Target group": "All groups",
+    "": "",
+  },
 ];
