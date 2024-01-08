@@ -2472,7 +2472,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+32) 800 11 728",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2487,7 +2487,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+359) 800 46 160",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2502,7 +2502,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+44) 808 164 2432",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2517,7 +2517,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+45) 80 82 08 61",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2532,7 +2532,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+372) 8000 044 624",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2547,7 +2547,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+353) 1800 817 519",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2562,7 +2562,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+34) 900 861 441",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2577,7 +2577,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+39) 800 939 092",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2592,7 +2592,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+371) 80 005 945",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2607,7 +2607,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+370) 800 00 414",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2622,7 +2622,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+31) 800 230 04 05",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2637,7 +2637,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+49) 800 000 26 00",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2652,7 +2652,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+48) 800 088 141",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2667,7 +2667,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+351) 800 780 756",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2682,7 +2682,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+40) 800 400 597",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2697,7 +2697,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+421) 800 182 399",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2712,7 +2712,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+36) 809 81 580",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2727,7 +2727,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+33) 805 080 466",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2742,7 +2742,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+46) 20 160 46 46",
     "On-site visit": "every day between 10:00 and 20:00",
@@ -2757,7 +2757,7 @@ var data = [
     Name: "National psychological association",
     Description:
       "Telephone and video counceling, ability to call from different countries",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "Czech Republic +420 800 012 058",
     "On-site visit": "every day between 10:00 and 20:00",
