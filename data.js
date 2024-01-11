@@ -5514,7 +5514,7 @@ var data = [
   },
   {
     Country: "UA",
-    "Type of resource": "Sexualized violence & domestic abuse",
+    "Type of resource": "Sexualized/domestic violence",
     "Language 1": "uk",
     "Language 2": "",
     Name: "Gidna",
@@ -5530,7 +5530,7 @@ var data = [
   },
     {
     Country: "UA",
-    "Type of resource": "Sexualized violence & domestic abuse",
+    "Type of resource": "Sexualized/domestic violence",
     "Language 1": "uk",
     "Language 2": "",
     Name: "Divchata",
@@ -5706,7 +5706,7 @@ var data = [
   },
   {
     Country: "DE",
-    "Type of resource": "Sexualized violence & domestic abuse",
+    "Type of resource": "Sexualized/domestic violence",
     "Language 1": "de",
     "Language 2": "ru",
     Name: "Zentrale Informationsstelle Autonomer Frauenhauser ",
