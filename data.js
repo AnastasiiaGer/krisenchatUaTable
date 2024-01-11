@@ -11,7 +11,7 @@ var data = [
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
-    "Target group": "LGBTQIA & BIPoC",
+    "Target group": "LGBTQIA+ & BIPoC",
     "": "",
   },
 
@@ -169,7 +169,7 @@ var data = [
     "E-mail": "help@quarteera.de",
     Phone: "",
     "On-site visit": "",
-    "Target group": "LGBTQIA & BIPoC",
+    "Target group": "LGBTQIA+ & BIPoC",
     "": "",
   },
   {
@@ -198,7 +198,7 @@ var data = [
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
-    "Target group": "LGBTQIA & BIPoC",
+    "Target group": "LGBTQIA+ & BIPoC",
     "": "",
   },
   {
@@ -373,7 +373,7 @@ var data = [
     "E-mail": "info@bridgesoverborders.de",
     Phone: "",
     "On-site visit": "",
-    "Target group": "LGBTQIA & BIPoC",
+    "Target group": "LGBTQIA+ & BIPoC",
     "": "",
   },
   {
@@ -3631,7 +3631,7 @@ var data = [
     "E-mail": "kontakt@teczowka.org.pl trans@teczowka.org.pl",
     Phone: "",
     "On-site visit": "",
-    "Target group": "LGBTQIA & BIPoC",
+    "Target group": "LGBTQIA+ & BIPoC",
     "": "",
   },
   {
@@ -3647,7 +3647,7 @@ var data = [
     Phone: "(+48) 22 628 52 52",
     "On-site visit":
       "Monday – Friday, 12:00-14:00 (Polish language), 16:00-18:00 (Ukrainian and Russian languages)",
-    "Target group": "LGBTQIA & BIPoC",
+    "Target group": "LGBTQIA+ & BIPoC",
     "": "",
   },
   {
@@ -3661,7 +3661,7 @@ var data = [
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
-    "Target group": "LGBTQIA & BIPoC",
+    "Target group": "LGBTQIA+ & BIPoC",
     "": "",
   },
   {
@@ -3838,7 +3838,7 @@ var data = [
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
-    "Target group": "LGBTQIA & BIPoC",
+    "Target group": "LGBTQIA+ & BIPoC",
     "": "",
   },
   {
@@ -4096,7 +4096,7 @@ var data = [
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
-    "Target group": "LGBTQIA & BIPoC",
+    "Target group": "LGBTQIA+ & BIPoC",
     "": "",
   },
   {
