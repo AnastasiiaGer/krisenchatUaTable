@@ -3047,21 +3047,6 @@ var data = [
   },
   {
     Country: "PL",
-    "Type of resource": "Psychotherapeutic support",
-    "Language 1": "pl",
-    "Language 2": "en",
-    Name: "CALMA",
-    Description:
-      "Free consultation with a psychologist in person, by phone or online; Personal or online consultation of a psychiatrist with a prescription for the necessary medication",
-    Website: "https://klinikacalma.pl/",
-    "E-mail": "rejestracja@klinikacalma.pl",
-    Phone: "(+48) 660 198 321",
-    "On-site visit": "Mon-Fri, 9:00-20:00",
-    "Target group": "All groups",
-    "": "",
-  },
-  {
-    Country: "PL",
     "Type of resource": "Child endangerment",
     "Language 1": "uk",
     "Language 2": "ru",
