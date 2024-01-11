@@ -5397,7 +5397,7 @@ var data = [
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
-    "Target group": "All groups ",
+    "Target group": "All groups",
     "": "",
   },
   {
