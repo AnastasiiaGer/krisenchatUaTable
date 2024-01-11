@@ -887,7 +887,7 @@ var data = [
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
-    "Target group": "Adults",
+    "Target group": "Adults 18",
     "": "",
   },
   {
@@ -901,7 +901,7 @@ var data = [
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
-    "Target group": "Adults",
+    "Target group": "Adults 18",
     "": "",
   },
   {
@@ -5509,7 +5509,7 @@ var data = [
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
-    "Target group": "Adults (18+)",
+    "Target group": "Adults 18",
     "": "",
   },
   {
@@ -5701,7 +5701,7 @@ var data = [
    "E-mail": "",
     Phone: "",
     "On-site visit": "",
-    "Target group": "Adults (18+)",
+    "Target group": "Adults 18",
     "": "",
   },
   {
@@ -5749,7 +5749,7 @@ var data = [
    "E-mail": "",
     Phone: "",
     "On-site visit": "",
-    "Target group": "Adults (18+)",
+    "Target group": "Adults 18",
     "": "",
   },
     {
@@ -5765,7 +5765,7 @@ var data = [
    "E-mail": "",
     Phone: "",
     "On-site visit": "",
-    "Target group": "Adults (18+)",
+    "Target group": "Adults 18",
     "": "",
   },
    {
@@ -5781,7 +5781,7 @@ var data = [
    "E-mail": "",
     Phone: "",
     "On-site visit": "",
-    "Target group": "Adults (18+)",
+    "Target group": "Adults 18",
     "": "",
   },
   {
