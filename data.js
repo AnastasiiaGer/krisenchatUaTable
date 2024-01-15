@@ -14,7 +14,6 @@ var data = [
     "Target group": "LGBTQIA+ & BIPoC",
     "": "",
   },
-
   {
     Country: "PL",
     "Type of resource": "Psychotherapeutic support",
