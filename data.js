@@ -4001,7 +4001,8 @@ var data = [
     "Language 2": "ru",
     Name: "Kolo Sim'yi",
     Description:
-      "!! Free and discounted psychological, psychaitric, medical support in Lviv, Kyiv, Odesa and online",
+      "!! Free and discounted psychological, psychaitric, medical support in Lviv, Kyiv, Odesa and online. The free offer covers the following target groups - war veterans and families of military servicemen, internally displaced people, individuals affected by the war (those who have lost their job, housing, or close people due to the war, and those who have experienced torture, etc.), members of large families, someone who has adopted a child or is taking care of a child who has lost relatives, or is raising a child with special needs.
+The free offer is limited to 5 free consultations, and the waiting time can extend up to 6 months.",
     Website: "https://k-s.org.ua/form/",
     "E-mail": "",
     Phone: "",
