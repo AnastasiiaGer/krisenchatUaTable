@@ -150,7 +150,7 @@ var data = [
     "Language 2": "",
     Name: "Volunteer Vision",
     Description: "Job support, career mentoring for Ukrainians",
-    Website: "https://pages.volunteer-vision.com",
+    Website: "https://www.volunteer-vision.com/",
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
@@ -5394,22 +5394,6 @@ var data = [
       "Telegram bot @TakeCareUA_bot shares contacts of centers and platforms that provide free qualified psychological, legal, social and medical assistance in Ukraine and Europe",
     Website:
       "https://www.healthright.org.ua/",
-    "E-mail": "",
-    Phone: "",
-    "On-site visit": "",
-    "Target group": "All groups",
-    "": "",
-  },
-  {
-    Country: "UA",
-    "Type of resource": "Psychotherapeutic support",
-    "Language 1": "uk",
-    "Language 2": "",
-    Name: "Bez Paniki",
-    Description:
-      "Telegram bot that provides info about panic attacks",
-    Website:
-      "https://t.me/bez_paniki_bot",
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
