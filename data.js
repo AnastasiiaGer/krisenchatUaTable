@@ -3464,7 +3464,7 @@ var data = [
     "Language 1": "uk",
     "Language 2": "ru",
     Name: "The National Institute of Mental Health",
-    Description: "Free psychosocial support (10 sessions) is provided under the following conditions: the client has valid insurance from the state insurance company VZP (Veřejná zdravotni pojišťovna); has Ukrainian citizenship.",
+    Description: "Waiting lists of two months. Free psychosocial support (10 sessions) is provided under the following conditions: the client has valid insurance from the state insurance company VZP (Veřejná zdravotni pojišťovna); has Ukrainian citizenship.",
     Website: "https://www.nudz.cz/uk/mi-dopomagajemo-ukrajini",
     "E-mail": "",
     Phone: "",
