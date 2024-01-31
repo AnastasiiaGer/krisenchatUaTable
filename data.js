@@ -3005,7 +3005,7 @@ var data = [
     "Language 2": "ru",
     Name: "Voices of Children",
     Description: "Psychological and overall support for children and parents: individual (online/offline) and group therapies for both children and parents; rehabilitation of children with ASD; social entertainment classes for children, humanitarian and other individual assistance on request.",
-    Website: "https://voices.org.ua/",
+    Website: "https://voices.org.ua/i-need-help/mental-help-for-kids/",
     "E-mail": "",
     Phone:
       "to call (free in Ukraine) (+380) 800 210 106 / to write on Telegram, Viber, Whatsapp (+380) 991 985 795",
@@ -3848,7 +3848,7 @@ var data = [
     "Language 2": "ru",
     Name: "SupportMe",
     Description: "5-7 free psychological online consultations (via a call). More consultations are possible in case of sexualized violence. To get a consultation, contact the organization via Telegram, FB, or fill out the form. Also provides legal consultations.",
-    Website: "https://www.instagram.com/supportme_teens/",
+    Website: "https://supportme.org.ua/teenage/psycholog-dlia-pidlitkiv",
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
