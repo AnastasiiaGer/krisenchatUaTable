@@ -5832,4 +5832,20 @@ var data = [
     "Target group": "All groups",
     "": "",
   },
+   {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Blakytnyi ptah",
+    Description:
+      "Psychological, legal, and medical assistance to families of captives, the missing, and those who have experienced captivity.",
+    Website:
+      "http://hostage.org.ua/",
+   "E-mail": "p.o.bluebird@gmail.com",
+    Phone: "Psychological support: +380950162622; +380505094049; legal support +380509375370",
+    "On-site visit": "",
+    "Target group": "Adults 18",
+    "": "",
+  },
 ];
