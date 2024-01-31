@@ -5686,4 +5686,116 @@ var data = [
     "Target group": "Children & teens",
     "": "",
   },
+     {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Alliance.global",
+    Description:
+      "Psychological support for LGBTQIA+ community located in Ukraine",
+    Website:
+      "https://docs.google.com/forms/d/e/1FAIpQLSdix1Pxet2QRcr_pxxWCBX4EAgDdnL9c2o5iFES34ZVSxxKgg/viewform",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": "",
+    "Target group": "LGBTQIA+ & BIPoC",
+    "": "",
+  },
+    {
+    Country: "UA",
+    "Type of resource": "General help aggregated",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Alliance.global",
+    Description:
+      "Shelters for LGBTQIA+ community and other kinds for support",
+    Website:
+      "https://mssg.me/alliance.global.mc",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": "",
+    "Target group": "LGBTQIA+ & BIPoC",
+    "": "",
+  },
+   {
+    Country: "DE",
+    "Type of resource": "Leisure",
+    "Language 1": "uk",
+    "Language 2": "en",
+    Name: "KwitneQueer",
+    Description:
+      "Networking meetings for the queer community in Berlin and other events",
+    Website:
+      "https://www.instagram.com/kwitnequeer/",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": "",
+    "Target group": "LGBTQIA+ & BIPoC",
+    "": "",
+  },
+  {
+    Country: " ",
+    "Type of resource": "Legal help",
+    "Language 1": "en",
+    "Language 2": " ",
+    Name: "GENDERDOC-M",
+    Description:
+      "Legal support for LGBTQIA+ community in Moldova",
+    Website:
+      "https://gdm.md/en/services/",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": "",
+    "Target group": "LGBTQIA+ & BIPoC",
+    "": "",
+  },
+    {
+    Country: " ",
+    "Type of resource": "General help aggregated",
+    "Language 1": "uk",
+    "Language 2": "en",
+    Name: "Gender Stream",
+    Description:
+      "Map with different types of support for LGBTQIA+ community, incl. psychological, legal support, help with accomodation etc. In Ukraine and abroad",
+    Website:
+      "https://genderstream.org/mapa/",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": "",
+    "Target group": "LGBTQIA+ & BIPoC",
+    "": "",
+  },
+   {
+    Country: "DE",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Zentrum fur Psychologische Psychotherapie",
+    Description:
+      "16 weekly psychological sessions for children who arrived from Ukraine to Germany. Depending on the age of the child, parents may be requested to join the sessions.",
+    Website:
+      "https://psychologie.uni-greifswald.de/gemeinsam/informationen-und-angebote-zum-angriffskrieg-auf-die-ukraine/hilfsangebot-fuer-durch-den-angriffskrieg-auf-die-ukraine-psychisch-belastete-kinder-und-jugendliche/",
+   "E-mail": "ukraine-gpg@uni-greifswald.de",
+    Phone: " ",
+    "On-site visit": "",
+    "Target group": "Children & teens",
+    "": "",
+  },
+   {
+    Country: " ",
+    "Type of resource": "Information",
+    "Language 1": "uk",
+    "Language 2": " ",
+    Name: "Ukraine Parenting",
+    Description:
+      "Practical advice for parents and guardians on how to support children in crisis",
+    Website:
+      "https://ukraineparenting.web.ox.ac.uk/",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": "",
+    "Target group": "Parents",
+    "": "",
+  },
 ];
