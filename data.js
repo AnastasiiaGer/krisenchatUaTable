@@ -5357,9 +5357,9 @@ var data = [
     "Language 2": "ru",
     Name: "lsvd Berlin",
     Description:
-      "Offers free and discrete psychosocial counselling as well as legal advice on asylum and residence law for LGBTQIA* of legal age with refugee and migration experience. Languages Turkish, Farsi, Dari, Arabic, Russian, Ukrainian, Polish, Romanian, Vietnamese, Spanish and French.,
+      "Offers free and discrete psychosocial counselling as well as legal advice on asylum and residence law for LGBTQIA* of legal age with refugee and migration experience. Languages Turkish, Farsi, Dari, Arabic, Russian, Ukrainian, Polish, Romanian, Vietnamese, Spanish and French.",
     Website:
-      "https://berlin.lsvd.de/neuigkeiten/unser-hilfsangebot-fuer-queere-gefluechtete-aus-der-ukraine-de-en-ua-ru/",
+      "https://berlin.lsvd.de/neuigkeiten/unser-hilfsangebot-fuer-queere-gefluechtete-aus-der-ukraine-de-en-ua-ru",
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
