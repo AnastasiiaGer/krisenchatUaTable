@@ -5848,4 +5848,20 @@ var data = [
     "Target group": "Adults 18",
     "": "",
   },
+   {
+    Country: "UA",
+    "Type of resource": "Information",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "teensLIVE",
+    Description:
+      "Information portal for teenagers. An option to ask a psychologist or a doctor a question via a form.",
+    Website:
+      "https://teenslive.info/ua/zapitaj-specialista",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": "",
+    "Target group": "Children & teens",
+    "": "",
+  },
 ];
