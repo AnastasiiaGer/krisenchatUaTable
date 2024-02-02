@@ -5798,4 +5798,36 @@ var data = [
     "Target group": "Parents",
     "": "",
   },
+    {
+    Country: "DE",
+    "Type of resource": "Child endangerment",
+    "Language 1": "de",
+    "Language 2": " ",
+    Name: "Jugendämter",
+    Description:
+      "A website where you can find Jugendämter (child & youth welfare offices) across Germany. Please enter the town or the zip code to access all the relevant information about a local office, including the link to their page. Refrain from sharing the link with others and use it to search for information yourself.",
+    Website:
+      "https://www.unterstuetzung-die-ankommt.de/de/das-sind-wir/jugendamt-vor-ort-finden/",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": "",
+    "Target group": "Children & teens",
+    "": "",
+  },
+  {
+    Country: " ",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": " ",
+    Name: "Malteser: online groups",
+    Description:
+      "Online group meetings with a psychologist for mothers who have fled Ukraine. The schedule is currently available for February: the group takes place every Tuesday between 18:00 and 19:00.",
+    Website:
+      "https://eveeno.com/228269876",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": "",
+    "Target group": "Women",
+    "": "",
+  },
 ];
