@@ -4741,7 +4741,7 @@ var data = [
     "Language 2": " ",
     Name: "Jugendämter",
     Description:
-      "A website where you can find Jugendämter (child & youth welfare offices) across Germany. Please enter the town or the zip code to access all the relevant information about a local office, including the link to their page. Refrain from sharing the link with others and use it to search for information yourself.",
+      "A website where you can find Jugendämter (child & youth welfare offices) across Germany. Please enter the town or the zip code to access all the relevant information about a local office, including the link to their page. Refrain from sharing the link with chatters and use it to search for information yourself.",
     Website:
       "https://www.unterstuetzung-die-ankommt.de/de/das-sind-wir/jugendamt-vor-ort-finden/",
    "E-mail": " ",
