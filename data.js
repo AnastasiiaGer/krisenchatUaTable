@@ -4766,4 +4766,68 @@ var data = [
     "Target group": "Women",
     "": "",
   },
+    {
+    Country: "UA",
+    "Type of resource": "Leisure",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Ukrainian Volunteer Service",
+    Description:
+      "A volunteer-based service that assigns a phone friend to a lonely person, might be especially suitable for older people. A volunteer will call the person 2-3 times a week for a friendly chat, but please note that this service does not provide professional psychological support. To register and apply for a phone friend, the person needs to call 0 800 202 147 on a weekday between 12:00 and 20:00 (Kyiv time). Ukrainians abroad can register via Viber at +380 63 794 7292.",
+    Website:
+      "https://befriend.volunteer.country/",
+   "E-mail": "befriend@volunteer.country",
+    Phone: "+380 800 202 147",
+    "On-site visit": "",
+    "Target group": "Adults 18",
+    "": "",
+  },
+  {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Helpline for men",
+    Description:
+      "Free psychological support for men via helpline and online-chat; working hours: 8AM-12AM.",
+    Website:
+      "https://2345.in.ua/",
+   "E-mail": " ",
+    Phone: "2345",
+    "On-site visit": "",
+    "Target group": "Men",
+    "": "",
+  },
+  {
+    Country: "UA",
+    "Type of resource": "Leisure",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Space Dobrodiy",
+    Description:
+      "A safe space in Kyiv for children and teenagers that offers offline events, courses and activities.",
+    Website:
+      "https://space-dobrodiy.club/events/",
+   "E-mail": "hello@space.dobrodiy.club",
+    Phone: " ",
+    "On-site visit": "Ihorivska St, 1/8, Kyiv, Ukraine, 04070",
+    "Target group": "Children & teens",
+    "": "",
+  },
+    {
+    Country: "UA",
+    "Type of resource": "Leisure",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "SviTy",
+    Description:
+      "A safe space for children and teens in Zhytomyr, that offers support and mental recovery programme, and various activities.",
+    Website:
+      "https://docs.google.com/forms/d/1A2vEQl9OSYknmtq82EX8jgK3cCkX-AL-VV2ZkohUOpw/viewform?edit_requested=true&fbclid=PAAaY4qjoEqrnuegBI8E55DcKya5q9g7GunPV-ny_h5K3o0-Mmt95GSz7fYfk",
+   "E-mail": "hello@space.dobrodiy.club",
+    Phone: " ",
+    "On-site visit": "Ihorivska St, 1/8, Kyiv, Ukraine, 04070",
+    "Target group": "Children & teens",
+    "": "",
+  },
 ];
