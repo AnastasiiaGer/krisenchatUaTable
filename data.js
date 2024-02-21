@@ -4277,7 +4277,7 @@ var data = [
     "Language 2": "",
     Name: "Divchata",
     Description:
-      "Long-term psychological support for victims of sexual violence. Chatters need email them, to receive a special form. The project operates until the end of 2023.",
+      "Long-term psychological support for victims of sexual violence. Chatters need email them, to receive a special form. The offer is available only for people located in Ukraine. The waiting time depends on the region.",
     Website:
       "https://www.divchata.org/uk/proekty/psyhologichna-reabilitaciya.html",
     "E-mail": "help@divchata.org",
