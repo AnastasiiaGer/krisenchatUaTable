@@ -2276,22 +2276,6 @@ var data = [
     "": "",
   },
   {
-    Country: "CZ",
-    "Type of resource": "Psychotherapeutic support",
-    "Language 1": "uk",
-    "Language 2": "ru",
-    Name: "Czech Psychology Network for Global Changes",
-    Description:
-      "148 therapists from Czech Republic offer up to 5 free sessions, possible online",
-    Website:
-      "https://www.psy-help.site/directory/czech-psychology-network-for-global-changes/",
-    "E-mail": "",
-    Phone: "",
-    "On-site visit": "",
-    "Target group": "All groups",
-    "": "",
-  },
-  {
     Country: "RO",
     "Type of resource": "Psychotherapeutic support",
     "Language 1": "ro",
