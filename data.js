@@ -3431,21 +3431,6 @@ var data = [
     "": "",
   },
   {
-    Country: "UA",
-    "Type of resource": "Suicidality",
-    "Language 1": "uk",
-    "Language 2": "ru",
-    Name: "Lifeline",
-    Description: 
-      "!! Suicide prevention hotline. ONLY for situations of acute danger and risk of suicide attempt",
-    Website: "https://lifelineukraine.com",
-    "E-mail": "",
-    Phone: "7333",
-    "On-site visit": "",
-    "Target group": "All groups",
-    "": "",
-  },
-  {
     Country: "CZ",
     "Type of resource": "Child endangerment",
     "Language 1": "cs",
