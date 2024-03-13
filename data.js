@@ -4721,14 +4721,14 @@ var data = [
   },
   {
     Country: " ",
-    "Type of resource": "Psychotherapeutic support",
+    "Type of resource": "Leisure",
     "Language 1": "uk",
     "Language 2": " ",
     Name: "Malteser: online groups",
     Description:
-      "Online group meetings with a psychologist for mothers who have fled Ukraine. The schedule is currently available for February: the group takes place every Tuesday between 18:00 and 19:00.",
+      "Online meetings on different topics for Ukrainians, to help to integrate in Germany. The meetings are organized by Malteser and hosted in Ukrainian. The schedule is currently available for March: the group takes place every Wednesday.",
     Website:
-      "https://eveeno.com/228269876",
+      "https://eveeno.com/721059653",
    "E-mail": " ",
     Phone: " ",
     "On-site visit": "",
@@ -4795,8 +4795,88 @@ var data = [
       "https://docs.google.com/forms/d/1A2vEQl9OSYknmtq82EX8jgK3cCkX-AL-VV2ZkohUOpw/viewform?edit_requested=true&fbclid=PAAaY4qjoEqrnuegBI8E55DcKya5q9g7GunPV-ny_h5K3o0-Mmt95GSz7fYfk",
    "E-mail": "hello@space.dobrodiy.club",
     Phone: " ",
-    "On-site visit": "Ihorivska St, 1/8, Kyiv, Ukraine, 04070",
+    "On-site visit": " ",
     "Target group": "Children & teens",
+    "": "",
+  },
+      {
+    Country: "PL",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Right for Protection",
+    Description:
+      "Up to 6 free psychological consultations for Ukrainians in Poland, online and offline. The offer includes all Ukrainians, incl. those without refugee status; Online and offline groups for relieving stress and dealing with complex emotions, psychological workshops for parents and children (to take part in the group the person needs to email psychologistpl@r2p.ngo).",
+    Website:
+      "https://docs.google.com/forms/d/e/1FAIpQLScku37f6PHdiYhoggXmQigTu1-IietTtykjhMbav4oDj9R7MQ/viewform?vc=0&c=0&w=1&flr=0&fbclid=IwAR1vA_BWRmwm3euGPaMFyBhLGTAqAsr9J3yVw_rSnBp5TJNtI_KbG6wwO3s",
+   "E-mail": "psychologistpl@r2p.ngo",
+    Phone: " ",
+    "On-site visit": " ",
+    "Target group": "All groups",
+    "": "",
+  },
+     {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Bachyty Sercem",
+    Description:
+      "Up to 5 psychological consultations for those located in Ukraine, including children starting from 10 years.",
+    Website:
+      "https://docs.google.com/forms/d/e/1FAIpQLSeejpcN5RWfcpXsbn-6LP6jX_awpwItt7JSKipA3U4398-X3g/viewform",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": " ",
+    "Target group": "All groups",
+    "": "",
+  },
+    {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Bachyty Sercem",
+    Description:
+      "Psychological groups for adults, located in Ukraine, offline.",
+    Website:
+      "https://docs.google.com/forms/d/e/1FAIpQLSd5xxxziLsiIh9AnXdHdfKyFF7LvHXr-FkfK_fmdLXujEF34g/viewform",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": " ",
+    "Target group": "Adults 18",
+    "": "",
+  },
+   {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Bachyty Sercem",
+    Description:
+      "Psychological groups for teenagers and young adults, located in Ukraine, offline.",
+    Website:
+      "https://docs.google.com/forms/d/e/1FAIpQLSe2bpeOVwHFySXUgNKcKYQRe5i24yBchPGLmThlRHrLuKjRCg/viewform",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": " ",
+    "Target group": "Teens (14-17)",
+    "": "",
+  },
+   {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Bachyty Sercem",
+    Description:
+      "Psychological support for children, teens, and young adults with disabilities (please email or write directly on FB to get support).",
+    Website:
+      "https://www.facebook.com/bachytysercem",
+   "E-mail": "bachytysercem@gmail.com",
+    Phone: " ",
+    "On-site visit": " ",
+    "Target group": "People with disabilities",
     "": "",
   },
 ];
