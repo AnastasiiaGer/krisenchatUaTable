@@ -4310,7 +4310,7 @@ var data = [
     "Language 2": "",
     Name: "UA Mental help",
     Description:
-      "Free of charge psychotherapy (up to 10 sessions). Currently, waiting list is 3-5 days",
+      "Currently doesn't accept new requests, only registration for the waiting list is available. Free of charge psychotherapy (up to 10 sessions).",
     Website:
       "https://uamentalhelp.org/",
     "E-mail": "",
