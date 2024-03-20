@@ -4895,4 +4895,100 @@ var data = [
     "Target group": "Veterans",
     "": "",
   },
+      {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Ministry of Veterans of Ukraine",
+    Description:
+      "A list of relevant organizations in the field of psychological rehabilitation for veterinarians and other types of support from the state.",
+    Website:
+      "https://mva.gov.ua/ua/veteranam/likuvannya-ta-reabilitaciya",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": " ",
+    "Target group": "Veterans",
+    "": "",
+  },
+  {
+    Country: "UA",
+    "Type of resource": "Medical help",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Rehabilitation",
+    Description:
+      "Support with rehabilitation for military and civilians who have been injured due to the war or whose chronic illnesses have worsened. Includes support with receiving protheses.",
+    Website:
+      "https://rehabilitation.org.ua/",
+   "E-mail": "info@rehabilitation.org.ua",
+    Phone: " ",
+    "On-site visit": " ",
+    "Target group": "Veterans",
+    "": "",
+  },
+  {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Molfa Hub",
+    Description:
+      "Center for psychological assistance and rehabilitation of military personnel and their family members in Kyiv and Pereyaslav.",
+    Website:
+      "https://arpp.com.ua/molfa-hub/",
+   "E-mail": " ",
+    Phone: "670977788",
+    "On-site visit": " ",
+    "Target group": "Veterans",
+    "": "",
+  },
+   {
+    Country: "UA",
+    "Type of resource": "General help aggregated",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Government hotline for veterans and their families",
+    Description:
+      "Government hotline for veterans and their families. Call 15-45 to receive information about social protection, employment, rehabilitation, psychological, legal support.",
+    Website:
+      "https://mva.gov.ua/ua/news/v-ukrayini-zapracyuye-veteranska-liniya-15-45-9#:~:text=%D0%92%D1%96%D0%B4%D1%82%D0%B5%D0%BF%D0%B5%D1%80%20%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D1%83%D0%B2%D0%B0%D0%B2%D1%88%D0%B8%20%D0%B7%D0%B0%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%2015,%D1%80%D0%B5%D0%B0%D0%B1%D1%96%D0%BB%D1%96%D1%82%D0%B0%D1%86%D1%96%D1%97%2C%20%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%87%D0%BD%D0%BE%D1%97%2C%20%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B2%D0%BE%D1%97%20%D0%BF%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%BA%D0%B8.",
+   "E-mail": " ",
+    Phone: "1545",
+    "On-site visit": " ",
+    "Target group": "Veterans",
+    "": "",
+  },
+  {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "TMS Rehabilitation Center",
+    Description:
+      "Psychological rehabilitation centers for veterans in Kyiv and Odesa. Also offers socialization and rehabilitation through sports, including Brazilian jiu-jitsu.",
+    Website:
+      "https://www.tmsrehabilitation.com/",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": " ",
+    "Target group": "Veterans",
+    "": "",
+  },
+    {
+    Country: "UA",
+    "Type of resource": "Specialized help",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Unburned Project",
+    Description:
+      "A program of external rehabilitation of people with burns or scars of a non-domestic nature as a result of the war. The project operates throughout the territory of Ukraine, as well as in Poland and Moldova.",
+    Website:
+      "https://docs.google.com/forms/d/e/1FAIpQLSeSILRoLr1Yia8sEhRRsIRLYvNCwmC2bygccM0zx_u88S8ubw/viewform",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": " ",
+    "Target group": "All groups",
+    "": "",
+  },
 ];
