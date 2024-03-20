@@ -3333,7 +3333,7 @@ var data = [
     "Language 2": "ru",
     Name: "National Psychological Association",
     Description: "Free psycahitric help online",
-    Website: "https://www.npa-ua.org/психологічна-допомога-від-нпа",
+    Website: "https://help.npa-ua.org/",
     "E-mail": "",
     Phone: "(+380) 010 0102",
     "On-site visit": "",
@@ -4877,6 +4877,22 @@ var data = [
     Phone: " ",
     "On-site visit": " ",
     "Target group": "People with disabilities",
+    "": "",
+  },
+     {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Vilʹnyy Vybir",
+    Description:
+      "Psychological support of veterans, military personnel and their family members: individual and group therapy. To get support, please call or write to any messenger 063 64 64 991. The line operates from Monday to Friday, from 9.00 till 19.00",
+    Website:
+      "https://www.instagram.com/vilnyi_vybir/",
+   "E-mail": "vilnyi.vybir@gmail.com",
+    Phone: "063 64 64 991",
+    "On-site visit": " ",
+    "Target group": "Veterans",
     "": "",
   },
 ];
