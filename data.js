@@ -4991,4 +4991,132 @@ var data = [
     "Target group": "All groups",
     "": "",
   },
+  {
+    Country: "UA",
+    "Type of resource": "Legal help",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Kharkiv Human Rights Group",
+    Description:
+      "Free legal consultations, in some cases the organization can provide a lawyer or an attorney for representation in court.",
+    Website:
+      "https://help.khpg.org/",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": " ",
+    "Target group": "All groups",
+    "": "",
+  },
+    {
+    Country: "UA",
+    "Type of resource": "Information",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Missing people hotline",
+    Description:
+      "If you are a relative or know of: prisoners of war, imprisoned civilians, missing civilians in the occupied territory.",
+    Website:
+      "https://missing.khpg.org/",
+   "E-mail": " ",
+    Phone: "0 800 20 24 02",
+    "On-site visit": " ",
+    "Target group": "Relatives and friends",
+    "": "",
+  },
+  {
+    Country: "UA",
+    "Type of resource": "Medical help",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Protez Hub",
+    Description:
+      "Support with receiving prostheses and rehabilitation.",
+    Website:
+      "https://linktr.ee/protezhub",
+   "E-mail": " ",
+    Phone: " ",
+    "On-site visit": " ",
+    "Target group": "All groups",
+    "": "",
+  },
+   {
+    Country: "UA",
+    "Type of resource": "Medical help",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Recovery Ukraine",
+    Description:
+      "National network of rehabilitation centers for wounded soldiers.",
+    Website:
+      "https://recoveryua.org/en/home",
+   "E-mail": "info@recoveryua.org",
+    Phone: " ",
+    "On-site visit": " ",
+    "Target group": "Veterans",
+    "": "",
+  },
+   {
+    Country: "UA",
+    "Type of resource": "Medical help",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "SuperHumans",
+    Description:
+      "Center for prosthetics, reconstructive surgery, rehabilitation and psychological support for adults and children affected by the war.",
+    Website:
+      "https://superhumans.com/",
+   "E-mail": "help@superhumans.com",
+    Phone: " ",
+    "On-site visit": " ",
+    "Target group": "All groups",
+    "": "",
+  },
+   {
+    Country: "UA",
+    "Type of resource": "Medical help",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Unbroken",
+    Description:
+      "Adults and children affected by the war receive complex qualified medical care, reconstructive surgery, orthopedics and prosthetics. In addition, the Center deals with physical, psychological and psychosocial rehabilitation. People receive all medical care free of charge.",
+    Website:
+      "https://unbroken.org.ua/ua",
+   "E-mail": "info@unbroken.org.ua",
+    Phone: "0 800 333 003",
+    "On-site visit": " ",
+    "Target group": "All groups",
+    "": "",
+  },
+   {
+    Country: "UA",
+    "Type of resource": "Medical help",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Lisova Poliana",
+    Description:
+      "Psychological and medical rehabilitation for military personnel.",
+    Website:
+      "https://www.lisovapoliana.com.ua/contacts",
+   "E-mail": " ",
+    Phone: "380734506000",
+    "On-site visit": " ",
+    "Target group": "Veterans",
+    "": "",
+  },
+   {
+    Country: "UA",
+    "Type of resource": "Specialized help",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Kyiv Crisis Center Sociotherapy",
+    Description:
+      "Inpatient stay with free meals, 3 weeks for people with addictions, PTSD, depression, anxiety disorders, etc.",
+    Website:
+      "https://sociotherapy.org.ua/?page_id=42",
+   "E-mail": "kmnkl_socio@kyivcity.gov.ua",
+    Phone: "096 274 59 54",
+    "On-site visit": " ",
+    "Target group": "All groups",
+    "": "",
+  },
 ];
