@@ -5119,4 +5119,19 @@ var data = [
     "Target group": "All groups",
     "": "",
   },
+  {
+    Country: "UA",
+    "Type of resource": "Suicidality",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Lifeline",
+    Description: 
+      "!! Suicide prevention hotline. PLEASE NOTE: Lifeline currently runs at low capacity and prioritizes required from veterans.",
+    Website: "https://lifelineukraine.com",
+    "E-mail": "",
+    Phone: "7333",
+    "On-site visit": "",
+    "Target group": "All groups",
+    "": "",
+  },
 ];
