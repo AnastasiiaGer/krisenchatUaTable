@@ -2239,9 +2239,8 @@ var data = [
     Name: "Pravo na zahist",
     Description:
       "!! 1-6 free consultations. what they can offer, how do they help, minors can also help (10+), but they do need a consent from the parents",
-    Website: "https://r2p.org.ua/",
-    "E-mail":
-      "https://docs.google.com/forms/d/e/1FAIpQLSeG7xJkULoXh2PtoxoPv8hkYoPxrWb3VdA33Bh7i95vaaco5w/viewform",
+    Website: "https://docs.google.com/forms/d/e/1FAIpQLSeG7xJkULoXh2PtoxoPv8hkYoPxrWb3VdA33Bh7i95vaaco5w/viewform",
+    "E-mail": "",
     Phone: "",
     "On-site visit": "",
     "Target group": "All groups",
