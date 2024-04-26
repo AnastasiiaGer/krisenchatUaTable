@@ -5464,4 +5464,19 @@ var data = [
     "Target group": "All groups",
     "": "",
   },
+  {
+    Country: "UA",
+    "Type of resource": "Psychotherapeutic support",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Mental Health and Wellbeing",
+    Description: 
+      "Offers 3 initial free crisis consultations for veterans and teenagers",
+    Website: "https://www.wellbeing.org.ua/contact/",
+    "E-mail": "contact@wellbeing.org.ua",
+    Phone: "38 095 420 15 34; 38 063 615 24 33",
+    "On-site visit": "",
+    "Target group": "Veterans",
+    "": "",
+  },
 ];
