@@ -5611,4 +5611,19 @@ var data = [
     "Target group": "All groups",
     "": "",
   },
+  {
+    Country: "DE",
+    "Type of resource": "Studying or language opportunities",
+    "Language 1": "de",
+    "Language 2": "eng",
+    Name: "FastTrack",
+    Description: 
+      "A mentorship program for Ukrainians between 18 and 32 who fled to Germany. The program aims to support young people to integrate into Germany and develop professionally.",
+    Website: "https://www.deutschlandstiftung.net/projekte/fast-track",
+    "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "Adults 18",
+    "": "",
+  },
 ];
