@@ -4856,7 +4856,7 @@ var data = [
     Description:
       "A list of relevant organizations in the field of psychological rehabilitation for veterinarians and other types of support from the state.",
     Website:
-      "https://mva.gov.ua/ua/veteranam/likuvannya-ta-reabilitaciya",
+      "https://mva.gov.ua/veteranam",
    "E-mail": " ",
     Phone: " ",
     "On-site visit": " ",
@@ -5500,6 +5500,21 @@ var data = [
     Description: 
       "General information about the help and temporary shelter in different countries.",
     Website: "https://ukraineishome.org/uk/",
+    "E-mail": "",
+    Phone: "",
+    "On-site visit": "",
+    "Target group": "All groups",
+    "": "",
+  },
+  {
+    Country: "UA",
+    "Type of resource": "Legal help",
+    "Language 1": "uk",
+    "Language 2": "ru",
+    Name: "Jurfem",
+    Description: 
+      "Legal help for survivors of sexualized violence and victims of gender-based discrimination.",
+    Website: "https://jurfem.com.ua/about-us-3/",
     "E-mail": "",
     Phone: "",
     "On-site visit": "",
