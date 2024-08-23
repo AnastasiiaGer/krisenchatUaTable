@@ -2238,7 +2238,7 @@ var data = [
     "Language 2": "ru",
     Name: "Pravo na zahist",
     Description:
-      "!! 1-6 free consultations. what they can offer, how do they help, minors can also help (10+), but they do need a consent from the parents",
+      "!Temporary doesn't accept new requests. 1-6 free consultations. what they can offer, how do they help, minors can also help (10+), but they do need a consent from the parents",
     Website: "https://docs.google.com/forms/d/e/1FAIpQLSeG7xJkULoXh2PtoxoPv8hkYoPxrWb3VdA33Bh7i95vaaco5w/viewform",
     "E-mail": "",
     Phone: "",
