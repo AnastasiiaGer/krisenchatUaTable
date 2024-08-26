@@ -5626,13 +5626,13 @@ var data = [
     "On-site visit": "",
     "Target group": "All groups",
     "": "",
-  },
-  {
+    },
+   {
     Country: "UA",
     "Type of resource": "Specialized help",
     "Language 1": "uk",
     "Language 2": "",
-    Name: "Adaptational resourse centre "Barwinok",
+    Name: "Adaptational resourse centre Barwinok",
     Description: 
       "Support groups for people with mental disorders",
     Website: "https://www.barwinok.org/",
@@ -5641,9 +5641,8 @@ var data = [
     "On-site visit": "Ukraine, Kyiv, Simi Brodskykh St, 8, room 209",
     "Target group": "Adults 18",
     "": "",
-  },
-  {
-    {
+   },
+   {
     Country: "UA",
     "Type of resource": "Specialized help",
     "Language 1": "uk",
@@ -5657,7 +5656,7 @@ var data = [
     "On-site visit": "",
     "Target group": "All groups",
     "": "",
-  },
+   },
    {
     Country: "UA",
     "Type of resource": "Medical help",
@@ -5688,7 +5687,7 @@ var data = [
     "Target group": "All groups",
     "": "",
   },
-    {
+   {
     Country: "UA",
     "Type of resource": "Psychotherapeutic support",
     "Language 1": "uk",
