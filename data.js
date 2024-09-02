@@ -2323,7 +2323,7 @@ var data = [
     "Language 2": "ru",
     Name: "CETA",
     Description:
-      "!! up 10 free consultations. online (and sometimes, offline) evidence based assessment for adults and adolescents (over 12) - ONLY FOR PROPLE IN UKRAINE. Waiting line is 4-6 weeks",
+      "!! up 10 free consultations. online (and sometimes, offline) evidence based assessment for adults and adolescents (over 12) - ONLY FOR PROPLE IN UKRAINE. The offer is currently only  available for limited groups: veterans and their families; relatives of military personnel whose requests are related to the war; people who have suicidal thoughts or intentions; people affected by violence; people prone to behaviour that can harm life or health.",
     Website: "https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=bSaWJcpkv02ftYyCPrjjXY96khFVUjpIuA3S64dn-qRUOU1KMEYxRThTRVVWOEtWQjJKWUlFNDIyVS4u",
     "E-mail": "",
     Phone: "",
